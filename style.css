@@ -1,0 +1,54 @@
+.list{
+	float:right;
+	list-style-type: none;
+	padding:10px;
+	font-weight: bolder;
+	margin: 20px 20px	;
+}
+.logo{
+	display:inline-block;
+	max-width: 300px;
+	padding-top: 20px;
+
+}
+
+}
+
+body{
+	margin:0;
+	box-sizing: border-box;
+}
+.cabecera{
+	background-image: url("hero.jpg");
+	background-size: cover;
+	min-height: 700px;
+
+}
+.contenedor2{
+	margin-top: 550px;
+	background-color: rgba(230, 229, 227, 0.3);
+
+}
+.containerhead{
+	background-color: rgba(230, 229, 227, 0.3);
+
+}
+
+.header1{
+
+}
+.beneficios
+{
+	text-align: center;
+	font-size: 3rem;
+	color:green;
+	font-weight: bolder;
+	margin-top:70px;
+}
+.list2{
+	float:left;
+	min-height: 200px;
+	min-width: 200px;
+	list-style: none;
+	padding: 40px;
+}
